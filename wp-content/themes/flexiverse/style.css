@@ -1565,6 +1565,9 @@ display: none; /* this code will hide whole pages */
 ::-webkit-scrollbar-thumb {background-color: #282828;border-radius: 2px;
 
 }
+
+
+
 footer {
     color: #FFFFFF;
     font-size: x-small;
